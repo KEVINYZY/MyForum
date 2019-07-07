@@ -1,4 +1,4 @@
->基于Spring/Spring MVC/MyBatis、类似于贴吧的的个人论坛
+zd>基于Spring/Spring MVC/MyBatis、类似于贴吧的的个人论坛
 
 #### 开发环境及技术选型
 - Jdk 1.8
